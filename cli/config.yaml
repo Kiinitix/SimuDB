@@ -1,0 +1,9 @@
+nodes:
+  dc1:
+    count: 3
+    latency_ms: 100
+    drop_rate: 0.0
+  dc2:
+    count: 3
+    latency_ms: 200
+    drop_rate: 0.1
